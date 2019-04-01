@@ -48,8 +48,7 @@ $(document).ready(function() {
     var score = (result1 + result2 + result3 + result4 + result5);
     console.log(score);
 
-    $("#result").text(score);
-
-
+    $("#result").text("You have gotten " + score + " points.");
+    
   })
 })

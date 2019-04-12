@@ -10,10 +10,10 @@ On completion, the student clicks on the submit button upon which they'll receiv
 ## Technologies Used
 This project was created using:
 
-  -CSS.
-  -HTML.
-  -Javascript.
-  -jQuery.
+  1. CSS.
+  2. HTML.
+  3. Javascript.
+  4. jQuery.
 ## Behavior-Driven Development 
 BDD is a common process in which the developer's focus begins on the behaviors that they want to see in their final application rather than thinking first about the code.
 
